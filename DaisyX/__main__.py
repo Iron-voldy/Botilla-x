@@ -63,7 +63,7 @@ from DaisyX.modules.helper_funcs.misc import paginate_modules
 from DaisyX.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
-Hello there, I'm Hamione Granger[🌸](https://telegra.ph/file/0c681ec5e19422ef3cfcb.jpg)
+Hello there, I'm Botila vertion 26[💚](https://telegra.ph/file/6893dc93ec70ce438d915.mp4)
 
 I am an 𝐴𝑛𝑖𝑚𝑒 Themed Group Managing Bot and I will help in managing your group
 
@@ -72,32 +72,32 @@ I am an 𝐴𝑛𝑖𝑚𝑒 Themed Group Managing Bot and I will help in managi
 
 buttons = [
     [
-        InlineKeyboardButton(text="🚀 INFO 🚀", callback_data="aboutmanu_"),
+        InlineKeyboardButton(text="🚀🤖 INFO🤖 🚀", callback_data="aboutmanu_"),
     ],
     [
         InlineKeyboardButton(text="❓ Help & Commands ❓", callback_data="help_back"),
     ],
     [
         InlineKeyboardButton(
-            text="💫 Add hamione to your group 💫", url="t.me/matheeshasbot?startgroup=true"
+            text="💫 Add Botila to your group 💫", url="t.me/Miss_Botila_bot?startgroup=true"
         ),
     ],
     [
         InlineKeyboardButton(
-            text="contat my owner 👨‍💻",url="t.me/matheeshaofficial"
+            text="Contat My Creater 👨‍💻",url="t.me/ReverofLYOKObot"
         ),
     ],
     [
         InlineKeyboardButton(
             
-           text="follow me instagram ❤",url="https://www.instagram.com/mr.matheesha_official?r=nametag"
+           text="Subscribe My Youtube Channel ❤",url="https://studio.youtube.com/channel/UCLTu_B9JYZZSbodWqalZOwQ?r=nametag"
         ),
     ],
 ]
 
 
 HELP_STRINGS = f"""
-*Main Commands :* [🤖](https://telegra.ph/file/feb244f12f8f9a5a09a42.jpg)
+*Main Commands :* [🤖](https://telegra.ph/file/fa515eb402478a4243d0c.jpg)
 ✪ /start: Starts me! You've probably already used this.
 ✪ /help: Click this, I'll let you know about myself!
 ✪ /donate: You can support my creater using this command.
@@ -112,7 +112,7 @@ HELP_STRINGS = f"""
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
 You can donate to the original writer's of the Base code,
-Support them  [matheesha](t.me/matheeshaofficial),"""
+Support them  [Merlin](t.me/ReverofLYOKObot),"""
 
 IMPORTED = {}
 MIGRATEABLE = []
@@ -371,7 +371,7 @@ def DaisyX_about_callback(update, context):
     query = update.callback_query
     if query.data == "aboutmanu_":
         query.message.edit_text(
-            text=f"*😍 Hi again!  The name's {dispatcher.bot.first_name} 😍 \n\nAs  You I'm a next generational group management bot developed by Infinity_Bots.* "
+            text=f"*🥰 Hi again!  The name's {dispatcher.bot.first_name} 🥰 \n\nAs  You I'm a next generational group management bot developed by Infinity_Bots.* "
             f"\n\n 🔥 Join [Infinity_Bots](https://t.me/hamione_help) To Keep Yourself Updated About {dispatcher.bot.first_name} 🔥"
             f"\n\n I have the normal GROUP MANAGING function like flood control, a warning system etc but I mainly have the advanced and handy Antispam system and the SIBYL banning system which safegaurds and helps your group from spammers."
             f"\n\nI Can Manage Your Groups Smoothly, With Some Special Features [:)](https://telegra.ph/file/feb244f12f8f9a5a09a42.jpg)"
