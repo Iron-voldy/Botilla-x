@@ -1,6 +1,6 @@
 
 # Daisy X (A telegram Bot Project)
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dulshan75/botila/edit/master/README.md)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dulshan75/Botilla-x/edit/master/README.md)
 
 ## https://daisyproject.studio
 ## Avaiilable on Telegram as [@DaisyXBot](https://t.me/daisyxbot)
@@ -11,7 +11,7 @@
 <details>
   <summary>Steps to deploy on Heroku !! </summary>
  
- [Deploy](https://www.heroku.com/deploy?template=https://github.com/Dulshan75/botila/edit/master/README.md)
+ [Deploy](https://www.heroku.com/deploy?template=https://github.com/Dulshan75/Botilla-x/edit/master/README.md)
 
 ```
 Fill in all the details, Deploy!
@@ -189,7 +189,7 @@ For queries or any issues regarding the bot please open an issue ticket or visit
 ## How to setup on Heroku 
 For starters click on this button 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dulshan75/botila/edit/master/README.md) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dulshan75/Botilla-x/edit/master/README.md) 
 
 
 ## Credits
