@@ -63,9 +63,9 @@ from DaisyX.modules.helper_funcs.misc import paginate_modules
 from DaisyX.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
-Hello there, I'm Botilla vertion 26[💚](https://telegra.ph/file/6893dc93ec70ce438d915.mp4)
+Hello there, I'm Botilla vertion 2.8[💚](https://telegra.ph/file/6893dc93ec70ce438d915.mp4)
 
-I am an ROBO tecknowlogy Themed Group Managing Bot and I will help in managing your group
+I am an ROBO Tec. Themed Group Managing Bot and I will help in managing your group
 
 ✪ Make sure you read *INFO* Section Below ✪ 
 """
