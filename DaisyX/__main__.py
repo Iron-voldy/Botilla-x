@@ -63,7 +63,7 @@ from DaisyX.modules.helper_funcs.misc import paginate_modules
 from DaisyX.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
-Hello there, I'm Botilla vertion 2.8[💚](https://telegra.ph/file/6893dc93ec70ce438d915.mp4)
+Hello there, I'm පෙත්තප්පු [💚](https://telegra.ph/file/46a865442772b2dbd4316.jpg)
 
 I am an ROBO Tec. Themed Group Managing Bot and I will help in managing your group
 
@@ -71,26 +71,26 @@ I am an ROBO Tec. Themed Group Managing Bot and I will help in managing your gro
 """
 
 buttons = [
-    [
-        InlineKeyboardButton(text="🚀🤖 INFO🤖 🚀", callback_data="aboutmanu_"),
+    
+        InlineKeyboardButton(text="🚀🐤 INFO🐤 🚀", callback_data="aboutmanu_"),
     ],
     [
         InlineKeyboardButton(text="❓ Help & Commands ❓", callback_data="help_back"),
     ],
     [
         InlineKeyboardButton(
-            text="💫 Add Botilla to your group 💫", url="t.me/MissBotilla_bot?startgroup=true"
+            text="💫 Add Botilla to your group 💫", url="http://t.me/Talkingsl_bot?startgroup=true"
         ),
     ],
     [
         InlineKeyboardButton(
-            text="Contat My Creater 👨‍💻",url="t.me/ReverofLYOKObot"
+            text="Contat My Creater 👨‍💻",url="http://t.me/DR_Voldy"
         ),
     ],
     [
         InlineKeyboardButton(
             
-           text="Subscribe My Youtube Channel ❤",url="https://studio.youtube.com/channel/UCLTu_B9JYZZSbodWqalZOwQ?r=nametag"
+           text="Subscribe helpers Youtube Channel ❤",url="https://studio.youtube.com/channel/UCLTu_B9JYZZSbodWqalZOwQ?r=nametag"
         ),
     ],
 ]
@@ -112,7 +112,7 @@ HELP_STRINGS = f"""
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
 You can donate to the original writer's of the Base code,
-Support them  [Merlin](t.me/CODELYOKObot),"""
+Support them  [voldy](t.me/dr_voldy),"""
 
 IMPORTED = {}
 MIGRATEABLE = []
